@@ -1,5 +1,5 @@
 # pubdrop
-ETWorks Public file repository
+ETWorks Public file repository. The contents here are ETWorks publicly available file resources.
 
 ## 19.01.2022 - Initiated repository
 - Added MAX Dashboard generic installer file
